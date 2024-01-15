@@ -39,13 +39,13 @@ education:
   courses:
     - course: PhD in Biology
       institution: Henan University
-      year: 2020-2024
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      year: 2024
+    - course: Master in Bioinformatics
+      institution: Fujian Agriculture and Forestry University 
+      year: 2020
+    - course: BSc in Bioinformatics
+      institution: Fujian Agriculture and Forestry University
+      year: 2017
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -54,18 +54,18 @@ skills:
     items:
       - name: Molecular Biology
         description: ''
-        percent: 80
+        percent: 90
         icon: database
         icon_pack: fab
       - name: R
         description: ''
         percent: 75
-        icon: database
+        icon: fa-termianl
         icon_pack: fas
       - name: Basic Bioinformatics analysis
         description: ''
         percent: 95
-        icon: database
+        icon: fa-termianl
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
@@ -94,7 +94,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'liyiying_zz@163.com'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/yiying30084523
@@ -106,10 +106,10 @@ social:
     link: https://scholar.google.com/citations?user=9SfFrMwAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/Saber39
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Li-Yiying-3
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,6 +120,5 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, this is Yiying Li. I'm a PhD student in Henan University. My researcha area is mainly about insect development and reproduction. I used migratory locust (Locusta migratoria) as research model, which is the most widespread locust species.
 {style="text-align: justify;"}
