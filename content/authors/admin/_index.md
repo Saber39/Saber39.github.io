@@ -120,5 +120,5 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hi, this is Yiying Li. I'm a PhD student in Henan University. My researcha area is mainly about insect development and reproduction. I used migratory locust (Locusta migratoria) as research model, which is the most widespread locust species.
+Hi, this is Yiying Li. I am a a PhD student in Henan University doing research in genetics, cell biology, developmental biology, and evolution. My researcha area is mainly about insect development and reproduction. I used [migratory locust](https://en.wikipedia.org/wiki/Migratory_locust) (*Locusta migratoria*) as research model, which is the most widespread locust species. My main project is about the functional remodeling of fat body tissue, which is how insects gain the ability to produce a large amount of vitellogenin(Vg) after eclosion. I also participated in another project, which is about how an orphan gene participates in the competition of male sperm. In the future, I hope to travel to more places around the world, learn more knowledge, and do more interesting research.
 {style="text-align: justify;"}
