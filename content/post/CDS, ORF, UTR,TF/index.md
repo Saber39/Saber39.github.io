@@ -1,3 +1,8 @@
+---
+title: CDS ORF UTR TFgene
+date: '2023-06-04'
+summary: 
+---
 ## ORF与CDS
 ORF：open reading frame（开放阅读框）
 理论上的蛋白编码区，一般是先在DNA序列中寻找起始密码子（AUG）对应的序列ATG，然后按每3个碱基一组向后延伸，一直到出现终止密码子（UAG、UGA、UAA）对应的序列。
