@@ -241,13 +241,13 @@ sections:
       email: zz.liyiying@gmail.com
       phone: 18339280760
       address:
-        street: 450 Serra Mall
+        street: Dongjing Avenue
         city: Kaifeng
         region: Henan
         postcode: '475001'
         country: China
         country_code: CN
-      directions: Jinming Campus, Jinming Avenue Kaifeng
+      directions: Jinming Campus, Jinming Avenue, Kaifeng
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'
