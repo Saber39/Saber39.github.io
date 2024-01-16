@@ -74,7 +74,7 @@ skills:
       - name: Cooking
         description: ''
         percent: 60
-        icon: hiking-person
+        icon: person-hiking
         icon_pack: fas
       - name: Cats
         description: ''
