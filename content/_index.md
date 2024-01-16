@@ -90,7 +90,7 @@ sections:
               * Exploring the functional role of an orphan gene *Lushu* in Plutella xylostella by knockout it with CRISPR/Cas9
               * Sperm competiton test in Plutella xylostella
               * TA in *Biochemistry and Molecular Biology Experiment*
-         - title: Undergraduate student
+        - title: Undergraduate student
           company: Fujian Agriculture and Forestry University
           company_url: ''
           company_logo: FAFU
