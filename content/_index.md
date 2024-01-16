@@ -65,7 +65,7 @@ sections:
         - title: Ph.D. student 
           company: National Key Laboratory of Cotton Bio-breeding and Integrated Utilization, School of Life Sciences, Henan University
           company_url: ''
-          company_logo: org-gc
+          company_logo: HENU
           location: Kaifeng, China
           date_start: '2020-09-01'
           date_end: ''
