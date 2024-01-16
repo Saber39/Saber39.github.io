@@ -74,7 +74,7 @@ skills:
       - name: Cooking
         description: ''
         percent: 60
-        icon: :fried_shrimp:
+        icon: 🍝
         icon_pack: emoji
       - name: Cats
         description: ''
