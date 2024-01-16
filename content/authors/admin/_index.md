@@ -74,18 +74,18 @@ skills:
       - name: Cooking
         description: ''
         percent: 60
-        icon: person-hiking
-        icon_pack: fas
+        icon: 🥙
+        icon_pack: emoji
       - name: Cats
         description: ''
         percent: 100
-        icon: cat
-        icon_pack: fas
+        icon: 🐱
+        icon_pack: emoji
       - name: Photography
         description: ''
         percent: 80
-        icon: camera-retro
-        icon_pack: fas
+        icon: 📷
+        icon_pack: emoji
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
