@@ -63,7 +63,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Ph.D. student 
-          company: National Key Laboratory of Cotton Bio-breeding and Integrated Utilization, School of Life Sciences, Henan University
+          company: National Key Laboratory of Cotton Bio-breeding and Integrated Utilization, Henan University
           company_url: ''
           company_logo: HENU
           location: Kaifeng, China
@@ -76,14 +76,31 @@ sections:
               * Exploring the involvement of brahma in JH-governed vitellogenesis and adult reproduction in Locusta migratoria.
               * snRNAseq & bulk RNAseq analysis in other projects belong to our [lab](https://insect.henu.edu.cn/index.htm)
               * Assisting in guilding undergraduate students
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Master student
+          company: State Key Laboratory of Ecological Pest Control for Fujian and Taiwan Crops, Institute of Applied Ecology, Fujian Agriculture and Forestry University
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: FAFU
+          location: Fuzhou, China
+          date_start: '2017-09-01'
+          date_end: '2020-06-30'
+          description:  |2-
+              Responsibilities include:
+            
+              * Identification of lineage-specific genes in Plutella xylostella
+              * Exploring the functional role of an orphan gene *Lushu* in Plutella xylostella by knockout it with CRISPR/Cas9
+              * Sperm competiton test in Plutella xylostella
+              * TA in *Biochemistry and Molecular Biology Experiment*
+         - title: Undergraduate student
+          company: Fujian Agriculture and Forestry University
+          company_url: ''
+          company_logo: FAFU
+          location: Fuzhou, China
+          date_start: '2013-09-01'
+          date_end: '2017-06-30'
+          description:  |2-
+              * Major in Biofinformatics 
+              * Biochemistry and molecular biology
+              * [BGI](https://www.bgi.com/global) intership
     design:
       columns: '2'
   - block: accomplishments
