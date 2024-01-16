@@ -69,7 +69,7 @@ sections:
           location: Kaifeng, China
           date_start: '2020-09-01'
           date_end: ''
-          description: |2-
+          description: |3-
               Responsibilities include:
 
               * Exploring the role of mitochondrial biogenesis in locusta migratoria fat body funciton remodeling 
@@ -83,7 +83,7 @@ sections:
           location: Fuzhou, China
           date_start: '2017-09-01'
           date_end: '2020-06-30'
-          description:  |2-
+          description:  |3-
               Responsibilities include:
             
               * Identification of lineage-specific genes in Plutella xylostella
@@ -97,12 +97,12 @@ sections:
           location: Fuzhou, China
           date_start: '2013-09-01'
           date_end: '2017-06-30'
-          description:  |2-
+          description:  |3-
               * Major in Biofinformatics 
               * Biochemistry and molecular biology
               * [BGI](https://www.bgi.com/global) intership
     design:
-      columns: '2'
+      columns: '3'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
