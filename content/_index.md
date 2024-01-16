@@ -62,8 +62,8 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Henan University
-          company: National Key Laboratory of Cotton Bio-breeding and Integrated Utilization, School of Life Sciences
+        - title: Ph.D. student 
+          company: National Key Laboratory of Cotton Bio-breeding and Integrated Utilization, School of Life Sciences, Henan University
           company_url: ''
           company_logo: org-gc
           location: Kaifeng, China
@@ -72,10 +72,10 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Fat body funciton remodeling 
-              * snRNA-seq analysis
-              * RNA-seq analysis 
-              * 
+              * Exploring the role of mitochondrial biogenesis in locusta migratoria fat body funciton remodeling 
+              * Exploring the involvement of brahma in JH-governed vitellogenesis and adult reproduction in Locusta migratoria.
+              * snRNAseq & bulk RNAseq analysis in other projects belong to our [lab](https://insect.henu.edu.cn/index.htm)
+              * Assisting in guilding undergraduate students
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
@@ -281,3 +281,6 @@ sections:
     design:
       columns: '2'
 ---
+
+
+[def]: https://insect.henu.edu.cn/index.htm
