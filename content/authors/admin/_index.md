@@ -50,22 +50,22 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: Skills
     items:
       - name: Molecular Biology
         description: ''
         percent: 90
-        icon: database
-        icon_pack: fab
+        icon: gene
+        icon_pack: fab 
       - name: R
         description: ''
         percent: 85
-        icon: fa-termianl
+        icon: r-project
         icon_pack: fas
-      - name: Cell culture
+      - name: Cell Culture
         description: ''
         percent: 95
-        icon: fa-termianl
+        icon: cell
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
