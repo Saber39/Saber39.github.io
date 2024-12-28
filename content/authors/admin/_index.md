@@ -59,10 +59,10 @@ skills:
         icon_pack: fab
       - name: R
         description: ''
-        percent: 75
+        percent: 85
         icon: fa-termianl
         icon_pack: fas
-      - name: Basic Bioinformatics analysis
+      - name: Cell culture
         description: ''
         percent: 95
         icon: fa-termianl
