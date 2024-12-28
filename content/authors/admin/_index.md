@@ -55,7 +55,7 @@ skills:
       - name: Molecular Biology
         description: ''
         percent: 90
-        icon: gene
+        icon: 🧬
         icon_pack: fab 
       - name: R
         description: ''
@@ -65,7 +65,7 @@ skills:
       - name: Cell Culture
         description: ''
         percent: 95
-        icon: cell
+        icon: 📱
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
